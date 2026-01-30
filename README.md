@@ -1,4 +1,4 @@
-# Studio Y2K Website
+# Studio Y2K Website (https://oishi503.github.io/studio-y2k-website/)
 
 A static fashion landing page inspired by early 2000s (Y2K) aesthetics.
 
