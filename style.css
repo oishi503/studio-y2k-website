@@ -1,0 +1,314 @@
+#navbar{
+    height: 400px;
+    background-color:  rgb(121, 113, 113);
+    background-image: url("image7.webp");
+    background-size: cover;
+}
+#logo{
+    color: rgb(230, 118, 118);
+    font-size: 50px;
+    background-color: black;
+    width: 390px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    height: 335px;
+    margin-left: 490px;
+    text-align: center;
+    padding-top: 110px;
+}
+
+#tags{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 150px;
+}
+a{
+    font-size: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: rgb(122, 60, 60);
+    padding: 10px;
+    border-radius: 18px;
+}
+.transition:hover{
+    background-color: rgb(58, 44, 44);
+}
+#photo1{
+    height: 500px;
+    width: 390px;
+    position: absolute;
+    right: 463px;
+    background-color: pink;
+    background-image: url("image1.jpeg");
+    background-size: cover;
+}
+#photo2{
+    height: 500px;
+    width: 490px;
+    position: absolute;
+    right: 853px;
+    background-color: pink;
+    background-image: url("image2.jpeg");
+    background-size: cover;
+}
+#photo3{
+    height: 500px;
+    width: 455px;
+    position: absolute;
+    right: 8px;
+    background-color: pink;
+    background-image: url("image3.jpeg");
+    background-size: cover;
+}
+#photo4{
+    height: 500px;
+    width: 490px;
+    position: absolute;
+    right: 1351px;
+    background-color: pink;
+    background-image: url("image4.jpeg");
+    background-size: cover;
+}
+#photo5{
+    height: 500px;
+    width: 490px;
+    position: absolute;
+    right: 1840px;
+    background-color: pink;
+    background-image: url("image5.jpeg");
+    background-size: cover;
+}
+#photo6{
+    height: 500px;
+    width: 490px;
+    position: absolute;
+    right: 2250px;
+    background-color: pink;
+    background-image: url("image6.jpeg");
+    background-size: cover;
+}
+#photos:hover{
+    transform: translateX(1405px);
+    transition:all 5s ease-out;
+}
+#tagline{
+    font-size:15px;
+    position: absolute;
+    top: 185px;
+    right: 600px;
+    border: 2px solid black;
+    background-color: rgb(122, 60, 60);
+    color:  rgb(230, 118, 118);
+}
+#banner{
+    font-size: 15px;
+    position: absolute;
+    top: 15px;
+    right: 500px;
+}
+#main{
+    font-size: 80px;
+    position: absolute;
+    top: 510px;
+    left: 370px;
+    text-align: center;
+    color: rgb(122, 60, 60);
+}
+#punchline{
+    font-size: 35px;
+    position: absolute;
+    top: 710px;
+    left: 540px;
+    text-align: center;
+    border: 2px solid white;
+    color: rgb(138, 103, 103);
+    background-color: black;
+    width: 300px;
+}
+#shop1{
+    position: absolute;
+    top: 798px;
+    left: 640px;
+    color: rgb(97, 88, 35);
+    font-size: 15px;
+    border: 2px solid black;
+}
+#box{
+    background-color: black;
+    height: 1111px;
+    width: 1335px;
+    position: absolute;
+    top: 908px;
+}
+#shopcategories{
+    font-size: 30px;
+    color: rgb(230, 118, 118);
+    position: absolute;
+    top: 40px;
+    left: 200px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#mainimage1{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    height: 200px;
+    width: 200px;
+    background-image: url("mainimage1.jpeg");
+    background-size: cover;
+}
+#mainimage2{
+    position: absolute;
+    top: 100px;
+    left: 450px;
+    height: 200px;
+    width: 200px;
+    background-image: url("mainimage2.jpeg");
+    background-size: cover;
+}
+#mainimage3{
+    position: absolute;
+    top: 100px;
+    left: 705px;
+    height: 200px;
+    width: 200px;
+    background-image: url("mainimage3.jpeg");
+    background-size: cover;
+}
+#mainimage4{
+    position: absolute;
+    top: 100px;
+    left: 960px;
+    height: 200px;
+    width: 200px;
+    background-image: url("mainimage4.jpeg");
+    background-size: cover;
+}
+#label1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 320px;
+    left: 135px;
+    width: 200px;
+}
+#label2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 320px;
+    left: 410px;
+    width: 200px;
+}
+#label3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 320px;
+    left: 684px;
+    width: 200px;
+}
+#label4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 320px;
+    left: 903px;
+    width: 200px;
+}
+.cat{
+    color: rgb(230, 118, 118);
+}
+.cat:hover{
+    background-color:  rgb(58, 44, 44);
+}
+#box1{
+    background-color: pink;
+    position: absolute;
+    top: 470px;
+    left: 230px;
+    height: 400px;
+    width: 400px;
+    background-image: url("box1image.jpeg");
+    background-size: cover;
+}
+#box2{
+    background-color: red;
+    position: absolute;
+    top: 490px;
+    left: 550px;
+    height: 220px;
+    width: 150px;
+    background-image: url("box2image.jpeg");
+    background-size: cover;
+}
+#box3{
+    background-color: purple;
+    position: absolute;
+    top: 600px;
+    left: 100px;
+    height: 250px;
+    width: 170px;
+    background-image: url("box3image.jpeg");
+    background-size: cover;
+}
+#about{
+    position: absolute;
+    top: 470px;
+    left: 900px;
+    height: 400px;
+    width: 400px;
+    color: rgb(230, 118, 118);
+    font-size: 50px;
+}
+#para1{
+    position: absolute;
+    top: 540px;
+    left: 900px;
+    height: 400px;
+    width: 400px;
+    color:  rgb(122, 60, 60);
+    font-size: 20px;
+}
+#para2{
+    position: absolute;
+    top: 720px;
+    left: 900px;
+    height: 400px;
+    width: 400px;
+    color: rgb(122, 60, 60);
+    font-size: 20px;
+}
+#contactus{
+    position: absolute;
+    top: 870px;
+    left: 900px;
+    height: 60px;
+    width: 180px;
+    border: 2px solid  rgb(58, 44, 44);
+    background-color: rgb(122, 60, 60);
+}
+#info{
+    text-align:center;
+    color:  rgb(230, 118, 118);
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+#foot{
+    position: absolute;
+    top: 2000px;
+    background-color: rgb(37, 36, 36);
+    height: 60px;
+    width: 1335px;
+}
+#shop2{
+    font-size: 30px;
+    padding-top: 15px;
+    padding-left: 95px;
+    color:  rgb(230, 118, 118);
+}
