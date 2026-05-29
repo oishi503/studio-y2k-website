@@ -16,3 +16,5 @@ This project focuses on layout design, typography, and visual storytelling using
 
 ## Purpose
 This project was built to practice frontend development skills, focusing on layout structuring, styling, and static website design.
+
+<!-- tested with AI code review bot -->
