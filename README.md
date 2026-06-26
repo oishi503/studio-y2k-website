@@ -16,3 +16,9 @@ This project focuses on layout design, typography, and visual storytelling using
 
 ## Purpose
 This project was built to practice frontend development skills, focusing on layout structuring, styling, and static website design.
+
+## Author
+
+**Oishi Bhattacharya**  
+B.Tech CST — Institute of Engineering and Management, Kolkata  
+[GitHub](https://github.com/oishi503)
